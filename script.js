@@ -77,4 +77,4 @@ tabla.appendChild(fila);
 
 cargar();
 
-setInterval(cargar,30000);
+setInterval(cargar,5000);
