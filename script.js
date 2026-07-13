@@ -1,6 +1,6 @@
 // URL CSV publicada de Google Sheets
 const CSV =
-"https://docs.google.com/spreadsheets/d/e/2PACX-1vTnhSgHPEOV15vBySZvIbf6mnxZsZi5oavE3qq3-S1kQ31ziLYw2Xwc8vSoWKSWTD6nsKE5Jyfh-o1R/pubhtml";
+"https://docs.google.com/spreadsheets/d/e/2PACX-1vTnhSgHPEOV15vBySZvIbf6mnxZsZi5oavE3qq3-S1kQ31ziLYw2Xwc8vSoWKSWTD6nsKE5Jyfh-o1R/pub?output=csv";
 
 const soccerBall =
 "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/26bd.png";
