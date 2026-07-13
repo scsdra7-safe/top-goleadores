@@ -1,0 +1,87 @@
+body{
+
+    margin:0;
+    background:#0c1325;
+    color:white;
+    font-family:Arial,Helvetica,sans-serif;
+
+}
+
+h1{
+
+    text-align:center;
+    font-size:54px;
+    margin-top:30px;
+    margin-bottom:50px;
+    letter-spacing:2px;
+
+}
+
+.fila{
+
+    display:flex;
+    align-items:center;
+
+    margin:18px 60px;
+
+}
+
+.nombre{
+
+    width:330px;
+
+    font-size:34px;
+
+    font-weight:bold;
+
+}
+
+.barra{
+
+    flex:1;
+
+    display:flex;
+
+    gap:6px;
+
+    align-items:center;
+
+}
+
+.barra img{
+
+    width:34px;
+
+    height:34px;
+
+}
+
+.numero{
+
+    width:80px;
+
+    text-align:right;
+
+    font-size:34px;
+
+    color:#FFD700;
+
+}
+
+.oro .nombre{
+
+    color:#FFD700;
+
+}
+
+.plata .nombre{
+
+    color:#D9D9D9;
+
+}
+
+.bronce .nombre{
+
+    color:#CD7F32;
+
+}
